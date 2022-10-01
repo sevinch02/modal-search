@@ -1,0 +1,15 @@
+/* style.css  9968 qator */
+
+.search-overlay>div .overlay-content {
+    width: 100%;
+    position: absolute;
+    top: 80px;
+}
+
+/* 10026 style.css */
+.search-pagination {
+    margin-top: 30px;
+}
+.page-item{
+    padding: 0 !important;
+}
